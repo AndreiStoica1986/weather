@@ -2,7 +2,7 @@ import csv
 import requests
 import time
 
-API_KEY = "e672fde063c3b90a8cadc3af2c8123c2"  # Replace with your actual key
+API_KEY = ""  # Replace with your actual key
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 INPUT_FILE = "C:/PythonApps/Weather/in/cities.csv"
